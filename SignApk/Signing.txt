@@ -1,0 +1,14 @@
+java -jar signapk.jar certificate.pem key.pk8 your-app.apk your-app-signed.apk
+
+java -jar signapk.jar certificate.pem key.pk8 dev.adam.documentsui_4.apk dev.adam.documentsui_4-signed.apk
+
+java -jar signapk.jar certificate.pem key.pk8 dev.adam.easylauncher_4.apk dev.adam.easylauncher_4-signed.apk
+
+java -jar signapk.jar certificate.pem key.pk8 dev.adam.emergencylauncher_4.apk dev.adam.emergencylauncher_4-signed.apk
+
+java -jar signapk.jar certificate.pem key.pk8 dev.adam.messaging_4.apk dev.adam.messaging_4-signed.apk
+
+java -jar signapk.jar certificate.pem key.pk8 dev.adam.sbrowser_4.apk dev.adam.sbrowser_4-signed.apk
+
+
+dev.adam.systemui_4
